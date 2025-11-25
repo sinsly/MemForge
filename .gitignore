@@ -1,0 +1,35 @@
+# Build output
+/build/
+/bin/
+
+# Object files
+*.o
+*.obj
+
+# Compiled libraries
+*.so
+*.dylib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE / editor files
+.vscode/
+*.swp
+*.swo
+.DS_Store
+*.user
+*.xcodeproj
+*.xcworkspace
+
+# Logs
+*.log
